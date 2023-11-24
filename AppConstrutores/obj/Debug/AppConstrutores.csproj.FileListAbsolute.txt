@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\bin\Debug\AppConstrutores.exe.config
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\bin\Debug\AppConstrutores.exe
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\bin\Debug\AppConstrutores.pdb
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.Menu.resources
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.Form2.resources
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.Properties.Resources.resources
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.exe
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.pdb
