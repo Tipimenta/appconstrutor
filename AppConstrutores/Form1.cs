@@ -44,11 +44,23 @@ namespace AppConstrutores
 
         private void button4_Click(object sender, EventArgs e)
         {
+            Form4 form4 = new Form4();
+            this.Hide();
 
+            form4.Closed += (s, args) => this.Show();
+
+            form4.ShowDialog();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
+            Form8 form8 = new Form8();
+            this.Hide();
+
+            form8.Closed += (s, args) => this.Show();
+
+            form8.ShowDialog();
+
 
         }
     }
