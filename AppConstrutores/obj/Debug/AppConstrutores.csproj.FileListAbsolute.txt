@@ -9,3 +9,4 @@ C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstru
 C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.exe
 C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.pdb
+C:\Users\Aluno\source\repos\AppConstrutores\AppConstrutores\obj\Debug\AppConstrutores.Form3.resources
